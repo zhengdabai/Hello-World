@@ -1,2 +1,2 @@
 # Hello-World
-As a start for Github
+#This is my first to use Github,just do some pracitce!
