@@ -1,8 +1,10 @@
 #include "common.h"
 #include <iostream>
 //#include "Target.h"
-
+//just  for  test
 // compute the log of the Gaussian probability
+if(1)
+	print(¡°test¡±);
 float log_gaussian_prob(float x, float m, float std)
 {
 	if(std == 0)
