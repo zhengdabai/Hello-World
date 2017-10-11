@@ -6,6 +6,7 @@ int main()
   cout<<"testststsstst"<<endl;
   cout<<"test pull"<<endl;
   cout<<"test for pull"<<endl;
+  cout<<"test"<<endl;
   return 0;
 }
 
